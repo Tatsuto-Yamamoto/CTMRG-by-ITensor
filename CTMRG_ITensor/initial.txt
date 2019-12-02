@@ -1,0 +1,9 @@
+200		N_max: maximal size of CTM
+11		dim: maximal dimension of CTM
+2.100E-00	initial: initial temperature (e.g. 1.000E-01)
+2.40E-00	final: final temperature (e.g. 4.000E+00)
+1.000E-02	delta: temperature increment (e.g. 1.000E-02)
+0.0003		small_beta: Minute inverse-temperature used for numerical differentiation
+
+***
+"small_beta" have to be chosen carefully for numerical reliability.
